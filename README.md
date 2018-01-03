@@ -9,7 +9,7 @@ Make iOs and Android application:
 <ul>
   <li>Open the phone camera</li>
   <li>Scan the bookshelf in front of you</li>
-  <li>Get a list of books</li>
+  <li>Get a list of books (via tesseract orc maybe)</li>
   <li>Choose one</li>
   <li>See on the image OR live via virtual reality</li>
 </ul>
